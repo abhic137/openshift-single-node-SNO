@@ -1,6 +1,6 @@
 # openshift-single-node-SNO
 Instructions to deploy SNO
-2.2. Installing single-node OpenShift manually 
+# Installing single-node OpenShift manually 
 
 To install OpenShift Container Platform on a single node, first generate the installation ISO, and then boot the server from the ISO. You can monitor the installation using the openshift-install installation program.
 
@@ -9,7 +9,7 @@ Additional resources
 Networking requirements for user-provisioned infrastructure
 User-provisioned DNS requirements
 Configuring DHCP or static IP addresses
-2.2.1. Generating the installation ISO with coreos-installer 
+## Generating the installation ISO with coreos-installer 
 
 Installing OpenShift Container Platform on a single node requires an installation ISO, which you can generate with the following procedure.
 
